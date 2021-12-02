@@ -9,3 +9,5 @@ Test frate
 #Am adaugat ceva
 
 -1. Open index.html in browser
+Dadadasdas
+nimic interesant
